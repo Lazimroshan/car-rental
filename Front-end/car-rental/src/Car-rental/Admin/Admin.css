@@ -1,0 +1,76 @@
+.Login12 {
+  background-image: url("https://images.unsplash.com/photo-1631477076114-9123f721b9dc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  width: 100%;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  position: absolute;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.Login21 {
+  width: 50%;
+  margin: auto;
+  margin-top: 180px;
+  padding: 25px;
+  color: rgb(255, 255, 255);
+
+  border-radius: 2rem;
+}
+
+.adminhome {
+  background-image: url("https://images.unsplash.com/photo-1631477076114-9123f721b9dc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+}
+.div1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 100px;
+}
+.addiv {
+  width: 300px;
+  height: 300px;
+  background-color: rgba(255, 255, 255, 0.5);
+  color: black;
+  margin: auto;
+  text-align: center;
+  text-decoration: none;
+}
+.Adform{
+  color: white;
+  margin: auto;
+  margin-top: 40px;
+  width: 900px;
+}
+.Cardtext1{
+  color: white;
+}
+.Carddiv1{
+  height: 50px;
+  margin-top: 420px;
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  /* border-radius: 2rem 0rem; */
+
+}
+.adminhome2 {
+  background-image: url("https://images.unsplash.com/photo-1631477076114-9123f721b9dc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  width: 100%;
+
+  margin: auto;
+  position: absolute;
+}
+.Viewcaradmin{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.Viewcars23{
+  background-image: url('https://images.unsplash.com/photo-1631477076114-9123f721b9dc?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  position: absolute;
+}
